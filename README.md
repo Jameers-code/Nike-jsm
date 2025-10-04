@@ -4,6 +4,13 @@
 <img src="https://github.com/ladunjexa/nike-landing-page/blob/main/public/vite.svg?raw=true" width="10%" />
 </p>
 <p align="center">
+
+
+
+
+
+
+
 <!-- Badges -->
   <a href="https://github.com/ladunjexa">
     <img src="https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?style=flat-square&logo=github&logoColor=white&labelColor=101827" alt="made by @ladunjexa" />
@@ -53,7 +60,8 @@ Dive into the world of Tailwind CSS, Incredible Frontend Nike website built with
 
 ## :star2: Introduction
 
-Nike Website is a web application built with Vite.js using TypeScript & React. The application is a landing page for Nike website. The application is responsive and works great on mobile devices and tablets. The application is designed using Tailwind CSS and it is deployed on Vercel.
+Nike Websi
+te is a web application built with Vite.js using TypeScript & React. The application is a landing page for Nike website. The application is responsive and works great on mobile devices and tablets. The application is designed using Tailwind CSS and it is deployed on Vercel.
 
 ### Folder Structure
 
