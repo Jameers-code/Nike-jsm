@@ -10,6 +10,7 @@ import {
 } from "./sections";
 
 import Nav from "./components/Nav";
+import ScrollToTop from "./components/ScrollToTop";
 
 const sections: {
   component: JSX.Element;
@@ -33,6 +34,7 @@ const App = () => (
         {component}
       </section>
     ))}
+    <ScrollToTop />
   </main>
 );
 
