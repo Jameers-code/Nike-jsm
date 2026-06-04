@@ -8,7 +8,7 @@ A modern, fully responsive Nike landing page built with **React 18**, **TypeScri
 
 ## 🚀 Live Demo
 
-> 🔗 [Coming Soon — Deploy on Vercel!](#)
+> 🔗 [View Live Site](https://nike-jsm.vercel.app/)
 
 ---
 
